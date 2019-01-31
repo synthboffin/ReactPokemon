@@ -1,2 +1,0 @@
-# ReactPokemon
-Created with CodeSandbox
